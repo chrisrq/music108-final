@@ -1,0 +1,504 @@
+opera
+german pop
+chanson
+instrumental pop
+europop
+downtempo
+pop rap
+blues-rock
+glitch
+vocal jazz
+pop rock
+disco
+easy listening
+dance pop
+teen pop
+trance
+british pop
+new wave
+ragtime
+heavy metal
+male vocalist
+art rock
+rock
+soft rock
+comedy rock
+symphonic rock
+reggae
+indie pop
+post-grunge
+orchestra
+singer-songwriter
+grunge
+stoner metal
+tejano
+speed metal
+grindcore
+ska
+country rock
+breakbeat
+pop
+blue-eyed soul
+classical
+southern soul
+belgium
+power pop
+ballad
+cumbia
+hard trance
+dancehall
+country
+electropop
+instrumental rock
+christian rock
+new jack swing
+quiet storm
+ccm
+future jazz
+deep house
+grime
+rockabilly
+hip house
+hardstyle
+tango
+celtic rock
+smooth jazz
+progressive house
+progressive bluegrass
+classic rock
+bass music
+hard house
+garage rock
+bubblegum pop
+vocal house
+tech house
+surf music
+shock rock
+neo-progressive
+reggaeton
+progressive trance
+folk rock
+synthpop
+folk-pop
+doo-wop
+motown
+space rock
+post-hardcore
+jazz funk
+rock 'n roll
+fado
+piano
+chamber music
+classic country
+dream pop
+cantonese pop
+bossa nova
+hip hop
+hard rock
+country music
+melodic hardcore
+salsa
+techno
+jungle music
+alternative metal
+world music
+beat
+roots rock
+electronica
+dubstep
+electronic
+big beat
+glam rock
+alternative dance
+concerto
+modern rock
+experimental rock
+merseybeat
+cool jazz
+show tunes
+new romantic
+turnablism
+happy hardcore
+kraut rock
+italian disco
+emo
+celtic
+england
+country gospel
+latin pop
+alternative country
+world beat
+rap
+chamber pop
+piano blues
+parody
+indie rock
+club
+dub
+jazz fusion
+island music
+southern rock
+progressive metal
+funk
+western swing
+los angeles
+latin jazz
+new rave
+uk garage
+bachata
+freestyle
+lullaby
+neofolk
+dark wave
+roots reggae
+soul blues
+punk
+patriotic
+dance rock
+soundtrack
+psychedelic trance
+twee pop
+southern gospel
+requiem
+breakcore
+freakbeat
+free improvisation
+zouk
+hyphy
+post rock
+ghetto tech
+chinese music
+bluegrass
+neo soul
+ballet
+jazz
+chill-out
+disco house
+honky tonk
+piano rock
+pop punk
+screamo
+dance
+gangster rap
+rap metal
+gabba
+folk metal
+trip hop
+northern soul
+space synth
+gospel
+hard bop
+ranchera
+noise rock
+electro
+finish
+neoclassical
+alternative rock
+new beat
+samba
+new orleans blues
+mambo
+death metal
+electric blues
+brill building pop
+british invasion
+funk rock
+old school hip hop
+mexico
+polka
+blues
+electroclash
+pop folk
+space age pop
+psychedelic rock
+rock steady
+hip pop
+memphis soul
+jive
+eurodance
+world fusion
+black metal
+chicago blues
+female vocalist
+traditional pop
+tribal house
+choro
+klezmer
+bolero
+symphonic metal
+yodel
+musical theater
+texas blues
+rap rock
+sympho black metal
+all-female
+choral music
+suomi rock
+gagaku
+industrial dance
+brazilian pop music
+rhythm noise
+hardcore punk
+j pop
+religious music
+noise pop
+soul jazz
+r&b
+no wave
+doom metal
+bass
+heartland rock
+string
+ska punk
+symphony
+goa
+broken beat
+outlaw country
+karaoke
+latin
+flamenco
+melodic trance
+cabaret
+glam metal
+soul music
+quebec
+tex mex
+illbient
+power electronics
+remix
+power metal
+baroque music
+string quartet
+shoegaze
+industrial metal
+americana
+chanson francaise
+8-bit
+gothic rock
+buddamat
+early music
+progressive rock
+rumba
+relax
+bhangra
+dance-punk
+funk metal
+brutal death metal
+mariachi
+acid jazz
+california
+oldies
+oi
+chicago soul
+french
+german
+alternative hip hop
+banda
+indie
+kizomba
+waltz
+avantgarde metal
+irish folk
+dark ambient
+groove metal
+zydeco
+indietronica
+free jazz
+soukous
+meditation
+merengue
+jangle pop
+afrobeat
+scottish
+minimal
+chant
+math rock
+dutch
+dirty south rap
+intelligent dance music
+rave
+g funk
+new weird america
+bebop
+horror punk
+portugal
+sonata
+bulerias
+funky house
+protopunk
+folk
+hardcore rap
+electro-industrial
+musette
+fusion
+christmas music
+new age
+psychobilly
+vocal
+garage
+guitar
+massachusetts
+close harmony
+jam band
+louisiana blues
+bubblegum dance
+canterbury scene
+2 tone
+country blues
+electronic music
+italian pop
+visual kei
+riot grrrl
+space music
+mbaqanga
+nu metal
+gothic
+video game music
+world
+melodic black metal
+dirty rap
+spanish
+stride
+neo classical metal
+comedy
+queercore
+jrock
+sweden
+boy band
+martial industrial
+brazilian jazz
+beatboxing
+futurepop
+nederpop
+straight edge
+christian music
+celtic fusion
+goregrind
+portugese
+newgrass
+underground rap
+nu breaks
+instrumental
+vallenato
+chiptune
+stoner rock
+swiss
+marimba
+swedish
+singer
+acoustic
+nu jazz
+song writer
+chicago house
+poland
+lovers rock
+trip rock
+mbalax
+speedcore
+folk punk
+crust punk
+lambada
+game
+alternative
+rai
+chamber jazz
+cowpunk
+jazz rap
+synth punk
+hardcore techno
+rapcore
+madchester
+africa
+soul
+harmonica blues
+christian hardcore
+soca
+melbourne
+power violence
+minnesota
+funeral doom
+alternative pop
+manouche
+delta blues
+tech trance
+pinoy rock
+eurobeat
+urban folk
+chorus
+dark pop
+boogaloo
+oriental metal
+zeuhl
+house
+speed garage
+slow core
+arabesque
+brass band
+indian classical
+stand-up comedy
+folktronica
+classic female blues
+comedy rap
+spanish pop
+filk
+metalcore
+christian punk
+drum and bass
+sexy
+crunk
+death core
+swamp rock
+free music
+british blues
+christian metal
+calypso
+exotica
+modern laika
+thrash metal
+irish
+serialism
+freak folk
+disco polo
+uplifting
+canto nuevo
+jump blues
+batucada
+electro hip hop
+classic
+humppa
+detroit techno
+gothic metal
+motown and soul
+dance music
+qawwali
+bel canto
+electro rock
+adult contemporary
+free
+melodic metalcore
+murga
+dark cabaret
+sadcore
+industrial rock
+neue deutsche welle
+jug band
+texas
+duet
+viking metal
+french pop
+frevo
+greek
+melodic death metal
+spoken word
+japanese
+blackened death metal
+deathrock
+garage punk
+baile funk
+deutschsprachig
+improvisational
+psychedelic pop
+renaissance
+math-core
+80s country
+paisley underground
